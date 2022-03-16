@@ -1,5 +1,5 @@
 # Tailwind (tw) Jekyll
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f9aea30d-4682-4b79-a9ee-142550b97ba2/deploy-status)](https://app.netlify.com/sites/imkapil/deploys)
 ![assets/img/tw-jekyll.png](assets/img/tw-jekyll.png)
 
 ⭐️ [Documentation Demo](https://vsoch.github.io/tw-jekyll/) ⭐️
