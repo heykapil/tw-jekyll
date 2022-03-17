@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MAT411PR
+title: tw-jekyll
 email: kapilchaudhary@gujaratuniversity.ac.in
 author: Kapil Chaudhary
 description: > # this means to ignore newlines until "baseurl:"
