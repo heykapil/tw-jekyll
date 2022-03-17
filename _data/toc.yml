@@ -1,6 +1,45 @@
 - title: Syllabus
   url: docs
   links:
+    - title: "System of non-homogenous equations"
+      url: "docs/non-homogenous"
+      children:
+        - title: Notes
+          url: "docs/non-homogenous#notes"
+        - title: Homework
+          url: "docs/non-homogenous#hw"
+        - title: Extra
+          url: "docs/non-homogenous#extra"
+    - title: "Eigenvalues and Eigenvectors"
+      url: "docs/eigenvalue-vector"
+      children:
+        - title: Notes
+          url: "docs/eigenvalue-vector#notes"
+        - title: Homework
+          url: "docs/eigenvalue-vector#hw"
+        - title: Extra
+          url: "docs/eigenvalue-vector#extra"
+    
+    - title: "Cayley-Hamilton theorem"
+      url: "docs/cayley"
+      children:
+        - title: Notes
+          url: "docs/cayley#notes"
+        - title: Homework
+          url: "docs/cayley#hw"
+        - title: Extra
+          url: "docs/cayley#extra"
+    
+    - title: "Orthogonal and Unitary matrices"
+      url: "docs/orthogonal-unitary"
+      children:
+        - title: Notes
+          url: "docs/orthogonal-unitary#notes"
+        - title: Homework
+          url: "docs/orthogonal-unitary#hw"
+        - title: Extra
+          url: "docs/orthogonal-unitary#extra"
+    
     - title: "Bilinear Forms"
       url: "docs/bilinear"
       children:
@@ -46,5 +85,8 @@
       url: "updates/exams"
     - title: "Results"
       url: "docs/hermitian"
-- title: Email Kapil
-  url: "mailto:kapilchaudhary@gmail.com"
+- title: Queries
+  url: "docs/queries"
+  links:
+    - title: "Email - Kapil"
+      url:  "mailto:kapilchaudhary@gmail.com"
