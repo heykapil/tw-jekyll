@@ -34,9 +34,9 @@
          <div class="hidden md:block w-60 h-full flex-shrink-0"></div>
          {% include sidebar.html %}
          </div> 
-         <div class="min-w-0 w-full max-w-3xl xl:max-w-[40rem] 2xl:max-w-3xl">
-            <article class="text-gray-500 leading-relaxed">                              
-               {% if page.title %}<h1 class="w-full font-heading text-navy leading-tight text-[2rem] mb-6"> {{ page.title}} </h1>{% endif %}
+         <div class="min-w-0 w-full max-w-3xl xl:max-w-[40rem] 2xl:max-w-3xl mx-auto"> <article class=leading-relaxed> 
+           
+           {% if page.title %}<h1 class="w-full font-heading text-navy leading-tight text-[2rem] mb-6"> {{ page.title}} </h1>{% endif %}
                {% include page-header.html %}
                {{ content }}
             </article> 
