@@ -37,21 +37,14 @@
           url: "docs/norms#hw"
         - title: Extra
           url: "docs/norms#extra"
-- title: "Exam"
-  url: "docs/exam"
-  children:
-      -title: Assignments
-       url: "docs/exam#assignment"
-      -title: Tests
-       url: "docs/exam#tests"
-      -title: Results
-       url: "docs/exam#results"
-- title: "Notifcations"
-  url: "docs/news"
-  children:
-      -title: Classes
-       url: "docs/news#class"
-      -title: Tests
-       url: "docs/news#tests"
-      -title: Results
-       url: "docs/news#results"
+- title: Updates
+  url: updates
+  links:
+    - title: "Class notifications"
+      url: "updates/class"
+    - title: "Exams"
+      url: "updates/exams"
+    - title: "Results"
+      url: "docs/hermitian"
+- title: Email Kapil
+  url: "mailto:kapilchaudhary@gmail.com"
