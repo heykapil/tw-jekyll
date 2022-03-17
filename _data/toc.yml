@@ -1,23 +1,57 @@
-- title: Documentation
+- title: Syllabus
   url: docs
   links:
-    - title: "Getting Started"
-      url: "docs/getting-started"
+    - title: "Bilinear Forms"
+      url: "docs/bilinear"
       children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
-    - title: "About"
-      url: "about"
-    - title: "News"
-      url: "news"
-- title: "Extras"
-  url: "docs/extras"
-  links:
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
-    - title: Tags Page
-      url: "tags"
+        - title: Notes
+          url: "docs/bilinear#notes"
+        - title: Homework
+          url: "docs/bilinear#hw"
+        - title: Extra
+          url: "docs/bilinear#extra"
+    - title: "Quadratic Forms"
+      url: "docs/quadratic"
+      children:
+        - title: Notes
+          url: "docs/quadratic#notes"
+        - title: Homework
+          url: "docs/quadratic#hw"
+        - title: Extra
+          url: "docs/quadratic#extra"
+    - title: "Hermitian Forms"
+      url: "docs/hermitian"
+      children:
+        - title: Notes
+          url: "docs/hermitian#notes"
+        - title: Homework
+          url: "docs/hermitian#hw"
+        - title: Extra
+          url: "docs/hermitian#extra"
+    - title: "Matrix Norms"
+      url: "docs/norms"
+      children:
+        - title: Notes
+          url: "docs/norms#notes"
+        - title: Homework
+          url: "docs/norms#hw"
+        - title: Extra
+          url: "docs/norms#extra"
+- title: "Exam"
+  url: "docs/exam"
+  children:
+      -title: Assignments
+       url: "docs/exam#assignment"
+      -title: Tests
+       url: "docs/exam#tests"
+      -title: Results
+       url: "docs/exam#results"
+- title: "Notifcations"
+  url: "docs/news"
+  children:
+      -title: Classes
+       url: "docs/news#class"
+      -title: Tests
+       url: "docs/news#tests"
+      -title: Results
+       url: "docs/news#results"
