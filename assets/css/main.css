@@ -102,18 +102,3 @@ blockquote span{
   margin-top:1em;
 }
 
-table {
-      border-collapse: collapse;
-    }
-    /* General styling of all cells */
-    table > :is(thead, tbody) > tr > :is(th, td) {
-      padding: 3px;
-      text-align: left;
-    }
-    table > thead > tr > :is(th, td) {
-      border-top: 2px solid; /* Top thick line */
-      border-bottom: 1px solid; /* Below head thin line */
-    }
-    table > tbody > tr:last-child > :is(th, td) {
-      border-bottom: 2px solid; /* Bottom thick line */
-    }
