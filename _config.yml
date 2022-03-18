@@ -36,8 +36,8 @@ keywords: "documentation theme"
 add_permalinks: true
 
 # Optional
-twitter: vsoch
-linkedin: vsochat
+twitter: kapiljch
+linkedin: imkapil
 support: https://github.com/heykapil/tw-jekyll/issues
 repo: https://github.com/heykapil/tw-jekyll
 github_user: heykapil
@@ -94,3 +94,13 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+plugins:
+	- jekyll-toc
+	
+# TOC Settings
+toc:
+ min_level: 1
+ max_level: 3
+ list_class: toc
+ list_class: toc__list
+ sublist_class: toc__sublist
