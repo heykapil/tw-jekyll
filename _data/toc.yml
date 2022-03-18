@@ -2,91 +2,86 @@
   url: docs
   links:
     - title: "System of non-homogenous equations"
-      url: "docs/non-homogenous"
+      url: "docs/non-homogenous.html"
       children:
         - title: Notes
-          url: "docs/non-homogenous#notes"
+          url: "docs/non-homogenous.html#notes"
         - title: Homework
-          url: "docs/non-homogenous#hw"
+          url: "docs/non-homogenous.html#hw"
         - title: Extra
-          url: "docs/non-homogenous#extra"
+          url: "docs/non-homogenous.html#extra"
     - title: "Eigenvalues and Eigenvectors"
-      url: "docs/eigenvalue-vector"
+      url: "docs/eigenvalue-vector.html"
       children:
         - title: Notes
-          url: "docs/eigenvalue-vector#notes"
+          url: "docs/eigenvalue-vector.html#notes"
         - title: Homework
-          url: "docs/eigenvalue-vector#hw"
+          url: "docs/eigenvalue-vector.html#hw"
         - title: Extra
-          url: "docs/eigenvalue-vector#extra"
+          url: "docs/eigenvalue-vector.html#extra"
     
     - title: "Cayley-Hamilton theorem"
-      url: "docs/cayley"
+      url: "docs/cayley.html"
       children:
         - title: Notes
-          url: "docs/cayley#notes"
+          url: "docs/cayley.html#notes"
         - title: Homework
-          url: "docs/cayley#hw"
+          url: "docs/cayley.html#hw"
         - title: Extra
-          url: "docs/cayley#extra"
+          url: "docs/cayley.html#extra"
     
     - title: "Orthogonal and Unitary matrices"
-      url: "docs/orthogonal-unitary"
+      url: "docs/orthogonal-unitary.html"
       children:
         - title: Notes
-          url: "docs/orthogonal-unitary#notes"
+          url: "docs/orthogonal-unitary.html#notes"
         - title: Homework
-          url: "docs/orthogonal-unitary#hw"
+          url: "docs/orthogonal-unitary.html#hw"
         - title: Extra
-          url: "docs/orthogonal-unitary#extra"
+          url: "docs/orthogonal-unitary.html#extra"
     
     - title: "Bilinear Forms"
-      url: "docs/bilinear"
+      url: "docs/bilinear.html"
       children:
         - title: Notes
-          url: "docs/bilinear#notes"
+          url: "docs/bilinear.html#notes"
         - title: Homework
-          url: "docs/bilinear#hw"
+          url: "docs/bilinear.html#hw"
         - title: Extra
-          url: "docs/bilinear#extra"
+          url: "docs/bilinear.html#extra"
     - title: "Quadratic Forms"
-      url: "docs/quadratic"
+      url: "docs/quadratic.html"
       children:
         - title: Notes
-          url: "docs/quadratic#notes"
+          url: "docs/quadratic.html#notes"
         - title: Homework
-          url: "docs/quadratic#hw"
+          url: "docs/quadratic.html#hw"
         - title: Extra
-          url: "docs/quadratic#extra"
+          url: "docs/quadratic.html#extra"
     - title: "Hermitian Forms"
-      url: "docs/hermitian"
+      url: "docs/hermitian.html"
       children:
         - title: Notes
-          url: "docs/hermitian#notes"
+          url: "docs/hermitian.html#notes"
         - title: Homework
-          url: "docs/hermitian#hw"
+          url: "docs/hermitian.html#hw"
         - title: Extra
-          url: "docs/hermitian#extra"
+          url: "docs/hermitian.html#extra"
     - title: "Matrix Norms"
-      url: "docs/norms"
+      url: "docs/norms.html"
       children:
         - title: Notes
-          url: "docs/norms#notes"
+          url: "docs/norms.html#notes"
         - title: Homework
-          url: "docs/norms#hw"
+          url: "docs/norms.html#hw"
         - title: Extra
-          url: "docs/norms#extra"
+          url: "docs/norms.html#extra"
 - title: Updates
-  url: updates
+  url: updates.html
   links:
     - title: "Class notifications"
-      url: "updates/class"
+      url: "updates/class.html"
     - title: "Exams"
-      url: "updates/exams"
+      url: "updates/exams.html"
     - title: "Results"
-      url: "docs/hermitian"
-- title: Queries
-  url: "docs/queries"
-  links:
-    - title: "Email - Kapil"
-      url:  "mailto:kapilchaudhary@gmail.com"
+      url: "docs/hermitian.html"
